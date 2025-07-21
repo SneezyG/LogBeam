@@ -1,6 +1,6 @@
-# 📡 LogBeam: A Serverless Logging System for IoT Devices
+# 📡 LogBeam: A serverless IoT telemetry logger system
 
-A serverless logging platform that enables IoT devices to send telemetry data via HTTP or MQTT, which is processed and stored efficiently in a columnar time-series database using AWS services.
+A serverless logging system that enables IoT devices to send telemetry data via HTTP or MQTT, which is processed and stored efficiently in a columnar time-series database using AWS services.
 
 ## [See LogBeam Code Repo](https://github.com/SneezyG/LogBeam)
 
